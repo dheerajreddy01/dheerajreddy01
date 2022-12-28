@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my GitHub profile! My name is Dheeraj and I am a Developer with a<br> passion for writing clean, efficient code. On my profile, you'll find a variety of <br>projects that demonstrate my skills in various languages. I am always looking <br>for opportunities to learn and grow as a developer, and am excited to contribute<br>to meaningful projects with like-minded individuals. <br>Thank you for stopping by, and I hope you find my work interesting.<br> Feel free to reach out if you have any questions or just want to chat!
+Welcome to my GitHub profile! My name is Dheeraj and I am a Developer with a passion for writing clean, efficient code. On my profile, you'll find a variety of projects that demonstrate my skills in various languages. I am always looking for opportunities to learn and grow as a developer, and am excited to contribute to meaningful projects with like-minded individuals. <br>Thank you for stopping by, and I hope you find my work interesting.<br> Feel free to reach out if you have any questions or just want to chat!
 
 
 ## 🌐 Socials:
