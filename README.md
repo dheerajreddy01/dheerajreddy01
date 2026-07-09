@@ -37,6 +37,7 @@
 
 ## 🚀 Projects
 
+- **Hirewave** — a job-automation platform that streamlines the job search & application workflow. *JavaScript · PostgreSQL*
 - **CKart** — E-commerce platform for construction supplies with district-based dynamic pricing. *Django · Next.js · PostgreSQL · Docker · Kubernetes · Jenkins*
 - **Monstograin** 🏅 *(Patented — IN 202041049928A)* — IoT + ML system that monitors grain-storage conditions and detects spoilage anomalies. *Python · ReactJS · Node.js · Chart.js*
 - **Financial Market Data Analysis** — Time-series forecasting & investment-strategy optimization on market data. *Python · Pandas · NumPy · SciPy · Matplotlib*
