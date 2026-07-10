@@ -37,7 +37,7 @@
 
 ## 🚀 Projects
 
-- **TradeSense** — a risk-first algorithmic trading & market-prediction system with backtesting on real and synthetic data. *Python · Streamlit · Pandas* · [🔴 Live demo](https://tradesense-trading.streamlit.app/)
+- **TradeSense** — a risk-first algorithmic trading & market-prediction system with backtesting on real and synthetic data. *Python · Streamlit · Pandas · scikit-learn* · [🔴 Live demo](https://tradesense-trading.streamlit.app/)
 - **Hirewave** — a job-automation platform that streamlines the job search & application workflow. *JavaScript · PostgreSQL*
 - **CKart** — E-commerce platform for construction supplies with district-based dynamic pricing. *Django · Next.js · PostgreSQL · Docker · Kubernetes · Jenkins*
 - **Monstograin** 🏅 *(Patented — IN 202041049928A)* — IoT + ML system that monitors grain-storage conditions and detects spoilage anomalies. *Python · ReactJS · Node.js · Chart.js*
