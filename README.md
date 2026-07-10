@@ -9,6 +9,7 @@
 
 ## 🌐 Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-5e3bee?style=flat&logo=googlechrome&logoColor=white)](https://dheerajreddy01.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/-dheerajreddy/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:reddydheeraj94@gmail.com)
 
@@ -39,7 +40,7 @@
 
 - **TradeSense** — a risk-first algorithmic trading & market-prediction system with backtesting on real and synthetic data. *Python · Streamlit · Pandas · scikit-learn* · [🔴 Live demo](https://tradesense-trading.streamlit.app/)
 - **Hirewave** — a job-automation platform that streamlines the job search & application workflow. *JavaScript · PostgreSQL* · [🔴 Live demo](https://hirewave-wup5.onrender.com/)
-- **CKart** — E-commerce platform for construction supplies with district-based dynamic pricing. *Django · Next.js · PostgreSQL · Docker · Kubernetes · Jenkins*
+- **CKart** — E-commerce platform for construction supplies with district-based dynamic pricing. *Django · Next.js · PostgreSQL · Docker · Kubernetes · Jenkins* · [🔴 Live demo](https://ckart.co.in/)
 - **Monstograin** 🏅 *(Patented — IN 202041049928A)* — IoT + ML system that monitors grain-storage conditions and detects spoilage anomalies. *Python · ReactJS · Node.js · Chart.js*
 - **Financial Market Data Analysis** — Time-series forecasting & investment-strategy optimization on market data. *Python · Pandas · NumPy · SciPy · Matplotlib*
 
