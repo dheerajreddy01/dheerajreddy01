@@ -1,8 +1,8 @@
 # Hi, I'm Dheeraj 👋
 
-### Software Engineer @ Capital One · Backend & Cloud (Go / Java / Python)
+### Full-Stack Software Engineer @ Capital One · Go · Java · Python · React
 
-🔭 &nbsp;Building scalable backend services & data pipelines in **Go** on **AWS**  
+🔭 &nbsp;Full-stack developer — building scalable backend services & data pipelines in **Go** on **AWS**, with **React** on the front end  
 📍 &nbsp;Richmond, VA  
 💡 &nbsp;4+ years across fintech & e-commerce · AWS Certified Developer · Patent holder  
 📫 &nbsp;reddydheeraj94@gmail.com
