@@ -31,8 +31,8 @@
 
 ## 💼 Experience
 
-- **Capital One** — Software Engineer · *Sep 2024 – Present* — backend services in Go, AWS data pipelines (S3 → OneStream), SQS/DLQ, Step Functions & Lambda, CI/CD on Jenkins.
-- **Acetech Group** — Software Engineer · *2023 – 2024* — ReactJS + Go, serverless order fulfillment on AWS (Lambda, Step Functions, EC2/S3/RDS).
+- **Capital One** — Software Engineer · *Sep 2024 – Present* — Building Go backend services & REST APIs across **tenancy & data**, including new APIs for account-information updates. AWS pipelines (S3 → OneStream, SQS/DLQ, Step Functions, Lambda), CI/CD on Jenkins, and remediating security vulnerabilities.
+- **Acetech Group** — Software Engineer · *2023 – 2024* — Built ReactJS front-ends and Go REST APIs; serverless order fulfillment on AWS (Lambda, Step Functions, EC2/S3/RDS).
 - **Rakuten India** — Software Engineer · *2021 – 2022* — React ticketing UI, Java/Spring backends, MongoDB/SQL optimization (−40% load time).
 
 ## 🚀 Projects
