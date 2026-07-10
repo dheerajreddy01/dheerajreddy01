@@ -38,7 +38,7 @@
 ## 🚀 Projects
 
 - **TradeSense** — a risk-first algorithmic trading & market-prediction system with backtesting on real and synthetic data. *Python · Streamlit · Pandas · scikit-learn* · [🔴 Live demo](https://tradesense-trading.streamlit.app/)
-- **Hirewave** — a job-automation platform that streamlines the job search & application workflow. *JavaScript · PostgreSQL*
+- **Hirewave** — a job-automation platform that streamlines the job search & application workflow. *JavaScript · PostgreSQL* · [🔴 Live demo](https://hirewave-wup5.onrender.com/)
 - **CKart** — E-commerce platform for construction supplies with district-based dynamic pricing. *Django · Next.js · PostgreSQL · Docker · Kubernetes · Jenkins*
 - **Monstograin** 🏅 *(Patented — IN 202041049928A)* — IoT + ML system that monitors grain-storage conditions and detects spoilage anomalies. *Python · ReactJS · Node.js · Chart.js*
 - **Financial Market Data Analysis** — Time-series forecasting & investment-strategy optimization on market data. *Python · Pandas · NumPy · SciPy · Matplotlib*
@@ -48,9 +48,3 @@
 - 🎓 **M.S. Computer Science** — University of Central Missouri (2023)
 - 🎓 **B.Tech Computer Science** — Vidya Jyothi Institute of Technology (2022)
 - 📜 **AWS Certified Developer – Associate** · **AWS Cloud Practitioner**
-
-## 📊 GitHub Stats
-
-![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dheerajreddy01&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajreddy01&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dheerajreddy01&theme=dark&hide_border=true)
